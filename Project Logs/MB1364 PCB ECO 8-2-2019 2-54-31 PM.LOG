@@ -1,0 +1,224 @@
+Removed Pin From Net: NetName=PC11 Pin=CN1-2
+Removed Pin From Net: NetName=GND Pin=CN1-8
+Removed Pin From Net: NetName=5V Pin=CN1-18
+Removed Pin From Net: NetName=GND Pin=CN1-19
+Removed Pin From Net: NetName=GND Pin=CN1-20
+Removed Pin From Net: NetName=GND Pin=CN1-22
+Removed Pin From Net: NetName=PA4 Pin=CN1-32
+Removed Pin From Net: NetName=PD6 Pin=CN1-45
+Removed Pin From Net: NetName=PD7 Pin=CN1-47
+Removed Pin From Net: NetName=GND Pin=CN1-51
+Removed Pin From Net: NetName=GND Pin=CN1-62
+Removed Pin From Net: NetName=PG9 Pin=CN1-65
+Removed Pin From Net: NetName=PG13 Pin=CN1-70
+Removed Pin From Net: NetName=PC9 Pin=CN2-1
+Removed Pin From Net: NetName=PB8 Pin=CN2-3
+Removed Pin From Net: NetName=PB9 Pin=CN2-5
+Removed Pin From Net: NetName=GND Pin=CN2-9
+Removed Pin From Net: NetName=PA5 Pin=CN2-11
+Removed Pin From Net: NetName=PA6 Pin=CN2-13
+Removed Pin From Net: NetName=GND Pin=CN2-20
+Removed Pin From Net: NetName=PB1 Pin=CN2-24
+Removed Pin From Net: NetName=PB3 Pin=CN2-31
+Removed Pin From Net: NetName=AGND Pin=CN2-32
+Removed Pin From Net: NetName=GND Pin=CN2-41
+Removed Pin From Net: NetName=PD14 Pin=CN2-48
+Removed Pin From Net: NetName=PWM65KHz Pin=CN2-54
+Removed Pin From Net: NetName=GND Pin=CN2-56
+Removed Pin From Net: NetName=PWM65KHz_180 Pin=CN2-58
+Removed Pin From Net: NetName=PF11 Pin=CN2-64
+Removed Pin From Net: NetName=GND Pin=CN2-65
+Removed Pin From Net: NetName=PE0 Pin=CN2-66
+Removed Pin From Net: NetName=PG6 Pin=CN2-72
+Added Component: Designator=TP1(KSTN-5003)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://keyelco.com/userAssets/file/M65p56.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Jun-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "5.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "3 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "1.08 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.25 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "9.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Surge Current"; Value = "80 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-65 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "1-Pin Through Hole Device, Dia 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Reverse Current"; Value = "600 uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.01 lb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.25 inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PC11 Pin=CN1-10
+Added Pin To Net: NetName=GND Pin=CN1-16
+Added Pin To Net: NetName=5V Pin=CN1-26
+Added Pin To Net: NetName=GND Pin=CN1-27
+Added Pin To Net: NetName=GND Pin=CN1-28
+Added Pin To Net: NetName=GND Pin=CN1-30
+Added Pin To Net: NetName=PA4 Pin=CN1-40
+Added Pin To Net: NetName=PD6 Pin=CN1-53
+Added Pin To Net: NetName=PD7 Pin=CN1-55
+Added Pin To Net: NetName=GND Pin=CN1-59
+Added Pin To Net: NetName=GND Pin=CN1-70
+Added Pin To Net: NetName=PG9 Pin=CN1-73
+Added Pin To Net: NetName=PG13 Pin=CN1-78
+Added Pin To Net: NetName=PC9 Pin=CN2-9
+Added Pin To Net: NetName=PB8 Pin=CN2-11
+Added Pin To Net: NetName=PB9 Pin=CN2-13
+Added Pin To Net: NetName=GND Pin=CN2-17
+Added Pin To Net: NetName=PA5 Pin=CN2-19
+Added Pin To Net: NetName=PA6 Pin=CN2-21
+Added Pin To Net: NetName=GND Pin=CN2-28
+Added Pin To Net: NetName=PB1 Pin=CN2-32
+Added Pin To Net: NetName=PB3 Pin=CN2-39
+Added Pin To Net: NetName=AGND Pin=CN2-40
+Added Pin To Net: NetName=GND Pin=CN2-49
+Added Pin To Net: NetName=PD14 Pin=CN2-56
+Added Pin To Net: NetName=PWM65KHz Pin=CN2-62
+Added Pin To Net: NetName=GND Pin=CN2-64
+Added Pin To Net: NetName=PWM65KHz_180 Pin=CN2-66
+Added Pin To Net: NetName=PF11 Pin=CN2-72
+Added Pin To Net: NetName=GND Pin=CN2-73
+Added Pin To Net: NetName=PE0 Pin=CN2-74
+Added Pin To Net: NetName=PG6 Pin=CN2-80
+Added Pin To Net: NetName=ZSupply Pin=TP1-1
+Change Net Name : Old Net Name=IOREF New Net Name=PD2
+Change Net Name : Old Net Name=NRST New Net Name=5V_EXT
+Change Net Name : Old Net Name=PA2 New Net Name=PB4
+Change Net Name : Old Net Name=PA3 New Net Name=PB5
+Change Net Name : Old Net Name=PA8 New Net Name=PA7
+Change Net Name : Old Net Name=PA10 New Net Name=PB10
+Change Net Name : Old Net Name=PA11 New Net Name=PC5
+Change Net Name : Old Net Name=PA12 New Net Name=PC6
+Change Net Name : Old Net Name=PA13 New Net Name=3V3_VDD
+Change Net Name : Old Net Name=PA14 New Net Name=BOOT0
+Change Net Name : Old Net Name=PA15 New Net Name=PF6
+Change Net Name : Old Net Name=PB2 New Net Name=PA11
+Change Net Name : Old Net Name=PB4 New Net Name=PC7
+Change Net Name : Old Net Name=PB5 New Net Name=PA9
+Change Net Name : Old Net Name=PB7 New Net Name=PA13
+Change Net Name : Old Net Name=PB10 New Net Name=PB6
+Change Net Name : Old Net Name=PB11 New Net Name=PD8
+Change Net Name : Old Net Name=PB12 New Net Name=5V_USB_STLK
+Change Net Name : Old Net Name=PB13 New Net Name=PB2
+Change Net Name : Old Net Name=PB15 New Net Name=PB11
+Change Net Name : Old Net Name=PC0 New Net Name=PA1
+Change Net Name : Old Net Name=PC1 New Net Name=PA0
+Change Net Name : Old Net Name=PC2 New Net Name=PC15
+Change Net Name : Old Net Name=PC3 New Net Name=PH0
+Change Net Name : Old Net Name=PC4 New Net Name=PB15
+Change Net Name : Old Net Name=PC13 New Net Name=PA14
+Change Net Name : Old Net Name=PC14 New Net Name=PA15
+Change Net Name : Old Net Name=PD1 New Net Name=PE3
+Change Net Name : Old Net Name=PD3 New Net Name=PB0
+Change Net Name : Old Net Name=PD4 New Net Name=VBAT
+Change Net Name : Old Net Name=PD5 New Net Name=PC2
+Change Net Name : Old Net Name=PD9 New Net Name=PE1
+Change Net Name : Old Net Name=PD10 New Net Name=PF13
+Change Net Name : Old Net Name=PD12 New Net Name=PA3
+Change Net Name : Old Net Name=PD13 New Net Name=PA2
+Change Net Name : Old Net Name=PD15 New Net Name=PE8
+Change Net Name : Old Net Name=PE1 New Net Name=PF0
+Change Net Name : Old Net Name=PE3 New Net Name=PD4
+Change Net Name : Old Net Name=PE4 New Net Name=PD3
+Change Net Name : Old Net Name=PE5 New Net Name=PG2
+Change Net Name : Old Net Name=PE6 New Net Name=PF8
+Change Net Name : Old Net Name=PE7 New Net Name=PF4
+Change Net Name : Old Net Name=PE8 New Net Name=PC4
+Change Net Name : Old Net Name=PE12 New Net Name=PD13
+Change Net Name : Old Net Name=PE13 New Net Name=PE10
+Change Net Name : Old Net Name=PE14 New Net Name=PD12
+Change Net Name : Old Net Name=PE15 New Net Name=PD11
+Change Net Name : Old Net Name=PF2 New Net Name=PG3
+Change Net Name : Old Net Name=PF3 New Net Name=PF14
+Change Net Name : Old Net Name=PF4 New Net Name=PB13
+Change Net Name : Old Net Name=PF5 New Net Name=PB14
+Change Net Name : Old Net Name=PF6 New Net Name=PC10
+Change Net Name : Old Net Name=PF7 New Net Name=PC12
+Change Net Name : Old Net Name=PF8 New Net Name=PE2
+Change Net Name : Old Net Name=PF9 New Net Name=PE4
+Change Net Name : Old Net Name=PF10 New Net Name=PF5
+Change Net Name : Old Net Name=PF12 New Net Name=PE14
+Change Net Name : Old Net Name=PF13 New Net Name=PE12
+Change Net Name : Old Net Name=PF14 New Net Name=PF10
+Change Net Name : Old Net Name=PG0 New Net Name=PF1
+Change Net Name : Old Net Name=PG1 New Net Name=PE5
+Change Net Name : Old Net Name=PG2 New Net Name=PC1
+Change Net Name : Old Net Name=PG3 New Net Name=PC0
+Change Net Name : Old Net Name=PG4 New Net Name=PG14
+Change Net Name : Old Net Name=PG5 New Net Name=PF15
+Change Net Name : Old Net Name=PG7 New Net Name=PF12
+Change Net Name : Old Net Name=PG8 New Net Name=PF3
+Change Net Name : Old Net Name=PG10 New Net Name=PG1
+Change Net Name : Old Net Name=PG11 New Net Name=PE6
+Change Net Name : Old Net Name=PG12 New Net Name=PD0
+Change Net Name : Old Net Name=PG14 New Net Name=PE15
+Change Net Name : Old Net Name=PG15 New Net Name=PF9
+Change Net Name : Old Net Name=PH0 New Net Name=PB7
+Change Net Name : Old Net Name=PH1 New Net Name=PC13
+Change Net Name : Old Net Name=VBAT New Net Name=PC14
+Change Net Name : Old Net Name=VIN New Net Name=3V3
+Added Pin To Net: NetName=IOREF Pin=CN1-20
+Added Net: Name=IOREF
+Added Pin To Net: NetName=NRST Pin=CN1-22
+Added Net: Name=NRST
+Added Pin To Net: NetName=PA8 Pin=CN2-31
+Added Net: Name=PA8
+Added Pin To Net: NetName=PA10 Pin=CN2-41
+Added Net: Name=PA10
+Added Pin To Net: NetName=PA12 Pin=CN2-20
+Added Net: Name=PA12
+Added Pin To Net: NetName=PB12 Pin=CN2-24
+Added Net: Name=PB12
+Added Pin To Net: NetName=PC3 Pin=CN1-45
+Added Net: Name=PC3
+Added Pin To Net: NetName=PD1 Pin=CN1-65
+Added Net: Name=PD1
+Added Pin To Net: NetName=PD5 Pin=CN1-51
+Added Net: Name=PD5
+Added Pin To Net: NetName=PD9 Pin=CN1-79
+Added Net: Name=PD9
+Added Pin To Net: NetName=PD10 Pin=CN2-75
+Added Net: Name=PD10
+Added Pin To Net: NetName=PD15 Pin=CN2-58
+Added Net: Name=PD15
+Added Pin To Net: NetName=PE7 Pin=CN2-54
+Added Net: Name=PE7
+Added Pin To Net: NetName=PE13 Pin=CN2-65
+Added Net: Name=PE13
+Added Pin To Net: NetName=PF2 Pin=CN1-62
+Added Net: Name=PF2
+Added Pin To Net: NetName=PF7 Pin=CN1-19
+Added Net: Name=PF7
+Added Pin To Net: NetName=PG0 Pin=CN1-69
+Added Net: Name=PG0
+Added Pin To Net: NetName=PG4 Pin=CN2-79
+Added Net: Name=PG4
+Added Pin To Net: NetName=PG5 Pin=CN2-78
+Added Net: Name=PG5
+Added Pin To Net: NetName=PG7 Pin=CN2-77
+Added Net: Name=PG7
+Added Pin To Net: NetName=PG8 Pin=CN2-76
+Added Net: Name=PG8
+Added Pin To Net: NetName=PG10 Pin=CN1-76
+Added Net: Name=PG10
+Added Pin To Net: NetName=PG11 Pin=CN1-80
+Added Net: Name=PG11
+Added Pin To Net: NetName=PG12 Pin=CN1-75
+Added Net: Name=PG12
+Added Pin To Net: NetName=PG15 Pin=CN1-74
+Added Net: Name=PG15
+Added Pin To Net: NetName=PH1 Pin=CN1-39
+Added Net: Name=PH1
+Added Pin To Net: NetName=VIN Pin=CN1-32
+Added Net: Name=VIN
+Added Member To Class: ClassName=zp_zh Member=Component C? 0.1uF
+Added Member To Class: ClassName=zp_zh Member=Component TP1 5003

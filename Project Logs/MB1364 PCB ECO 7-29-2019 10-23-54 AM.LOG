@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=+12 Pin=C6-2
+Added Pin To Net: NetName=+12 Pin=C9-2
+Added Pin To Net: NetName=+12 Pin=U12-5
+Added Pin To Net: NetName=+12 Pin=U12-8
+Added Pin To Net: NetName=+12 Pin=U13-5
+Added Pin To Net: NetName=+12 Pin=U13-8
+Change Net Name : Old Net Name=+12 New Net Name=Power_IN

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=ZH Pin=TP11-1
+Removed Pin From Net: NetName=ZP Pin=TP13-1
+Change Net Name : Old Net Name=ZH New Net Name=ZPlate
+Change Net Name : Old Net Name=ZP New Net Name=ZSupply
+Added Pin To Net: NetName=ZH Pin=TP11-1
+Added Net: Name=ZH
+Added Pin To Net: NetName=ZP Pin=TP13-1
+Added Net: Name=ZP

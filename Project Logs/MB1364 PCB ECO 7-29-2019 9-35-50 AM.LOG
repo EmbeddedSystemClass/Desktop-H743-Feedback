@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=ZP Pin=R2-1
+Removed Pin From Net: NetName=NetC17_2 Pin=R3-1
+Removed Pin From Net: NetName=NetC18_2 Pin=R3-2
+Change Component Footprint: Designator=C18 Old Footprint=CAPC0805(2012)155_L New Footprint=CAPC0402(1005)60_M
+Change Component Footprint: Designator=R2 Old Footprint=RESC0805(2012)_L New Footprint=RESC0603(1608)_L
+Change Component Footprint: Designator=R3 Old Footprint=RESC0805(2012)_L New Footprint=RESC0603(1608)_L
+Change Component Comment : Designator=R3 Old Comment=6.19k New Comment=6.19k 1% 0603(1608)
+Change Component Comment : Designator=C18 Old Comment=CAP CER 1UF 25V X7R 0805 New Comment=CAP 47pF 10V 0402(1005)
+Change component parameters: Designator = "R2"; Footprint = "RESC0603(1608)_L"; UniqueID = "\OUWECVDB\WWNBHUEC\AZFCJTQV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "768"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "RESC0603(1608)_L"; UniqueID = "\OUWECVDB\WWNBHUEC\MSDKDIKW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "6.19k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18"; Footprint = "CAPC0402(1005)60_M"; UniqueID = "\OUWECVDB\WWNBHUEC\IRSUXFRO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "0.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "10 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47pF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC0603(1608)100_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "10 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22nF"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.33 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ZP Pin=R2-2
+Added Pin To Net: NetName=NetC18_2 Pin=R3-1
+Added Pin To Net: NetName=NetC17_2 Pin=R3-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U3-1
+Added Net: Name=NetR2_1
+Added Member To Class: ClassName=U_zp_zh Member=Component C? CAP 22nF 10V 0603(1608)
+Added Member To Class: ClassName=U_zp_zh Member=Component R? 1R33 1% 0603(1608)

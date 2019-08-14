@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=U? NewDesignator=U13
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC19_1
+Added Member To Class: ClassName=zp_zh Member=Component C19 0.1uF

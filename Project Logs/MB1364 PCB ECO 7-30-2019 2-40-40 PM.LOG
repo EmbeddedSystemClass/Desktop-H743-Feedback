@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=PWM65KHz Pin=CN2-52
+Change Net Name : Old Net Name=PE11 New Net Name=PWM65KHz_180

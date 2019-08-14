@@ -1,0 +1,80 @@
+Added Component: Designator=C21(CAPC0805(2012)145_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM21BR71E104KA01L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Digi-Reel®"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.2, 10=0.145, 100=0.0683, 500=0.04788, 1000=0.03964 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.079" L x 0.049" W (2.00mm x 1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "891652"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1673-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.053" (1.35mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=CD1(MOLX-502774-0891_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "3D Model"; Value = "502774-0891.stp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Card Type"; Value = "SecureDigital-microSD™"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "502774-0891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors,Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "ConnectorandEjector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness"; Value = "20µin(0.51µm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/1104/1499551-1104671.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. D, 04/2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ejector Side"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "MemoryConnectors-PCCardSockets"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insertion, Removal Method"; Value = "PushIn,PushOut"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Feature"; Value = "Reverse-Bottom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount,RightAngle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "10(8+2)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "microSD™Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "WM24066DKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Digi-Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "502774-0891CertofCompliance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "502774"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=+5 Pin=C21-2
+Added Pin To Net: NetName=+3.3 Pin=CD1-4
+Added Pin To Net: NetName=GND Pin=CD1-6
+Added Pin To Net: NetName=GND Pin=CD1-10
+Added Pin To Net: NetName=GND Pin=CD1-11
+Added Pin To Net: NetName=GND Pin=CD1-12
+Added Pin To Net: NetName=GND Pin=CD1-13
+Added Pin To Net: NetName=GND Pin=CD1-14
+Added Pin To Net: NetName=A5 Pin=CD1-1
+Added Net: Name=A5
+Added Pin To Net: NetName=B5 Pin=CD1-2
+Added Net: Name=B5
+Added Pin To Net: NetName=C5 Pin=CD1-5
+Added Net: Name=C5
+Added Pin To Net: NetName=D4 Pin=CD1-3
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=CD1-7
+Added Net: Name=D5
+Added Pin To Net: NetName=E5 Pin=CD1-8
+Added Net: Name=E5
+Added Pin To Net: NetName=Micro SD Card Detect Pin=CD1-9
+Added Net: Name=Micro SD Card Detect
+Added Member To Class: ClassName=zp_zh Member=Component C21 CAP CER 10UF 25V X7R 0805
+Added Member To Class: ClassName=Connectors Member=Component CD1 502774-0891

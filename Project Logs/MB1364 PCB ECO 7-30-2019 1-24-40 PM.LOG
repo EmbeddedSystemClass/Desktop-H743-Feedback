@@ -1,0 +1,42 @@
+Change Component Footprint: Designator=R46 Old Footprint=RESC0805(2012)_L New Footprint=RESC0402(1005)_M
+Change Component Footprint: Designator=R47 Old Footprint=RESC0805(2012)_L New Footprint=RESC0402(1005)_M
+Change Component Footprint: Designator=R48 Old Footprint=RESC0805(2012)_L New Footprint=RESC0402(1005)_M
+Change Component Footprint: Designator=R49 Old Footprint=RESC0805(2012)_L New Footprint=RESC0402(1005)_M
+Change Component Comment : Designator=R46 Old Comment=100k New Comment=100k 1% 0402(1005)
+Change Component Comment : Designator=R47 Old Comment=100k New Comment=100k 1% 0402(1005)
+Change Component Comment : Designator=R48 Old Comment=100k New Comment=100k 1% 0402(1005)
+Change Component Comment : Designator=R49 Old Comment=100k New Comment=100k 1% 0402(1005)
+Change component parameters: Designator = "R46"; Footprint = "RESC0402(1005)_M"; UniqueID = "\OUWECVDB\BBSTEHBN\VBYQCEMS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.063 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R47"; Footprint = "RESC0402(1005)_M"; UniqueID = "\OUWECVDB\BBSTEHBN\BSXWXLVS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.063 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R48"; Footprint = "RESC0402(1005)_M"; UniqueID = "\OUWECVDB\BBSTEHBN\YXAYFLAE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.063 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R49"; Footprint = "RESC0402(1005)_M"; UniqueID = "\OUWECVDB\BBSTEHBN\SJYHJWHP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.063 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=PA[0..15] Member=Element[9]: PA
+Added Member To Class: ClassName=PA[0..15] Member=Element[11]: PA

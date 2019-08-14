@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetR3_1 Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=NetR7_1 Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U3-4
+Removed Pin From Net: NetName=PG9 Pin=U16-16
+Change Component Footprint: Designator=U16 Old Footprint=DAC80504 New Footprint=RU-14_N
+Change Component Comment : Designator=U1 Old Comment=LT6016 New Comment=LTC2057HV 60V
+Change Component Comment : Designator=U3 Old Comment=LT6016 New Comment=LTC2057HV 60V
+Change component parameters: Designator = "U1"; UniqueID = "\OUWECVDB\BBSTEHBN\YVQUQBKB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "U3"; UniqueID = "\OUWECVDB\BBSTEHBN\SMOFHUSX"
+Change component parameters. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=NetR3_1 Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=NetR7_1 Pin=U3-6
+Added Pin To Net: NetName=PG9 Pin=U16-8

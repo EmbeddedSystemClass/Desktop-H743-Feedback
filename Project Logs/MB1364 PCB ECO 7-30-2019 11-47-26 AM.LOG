@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R46
+Change Component Designator: OldDesignator=R? NewDesignator=R47
+Change Component Designator: OldDesignator=R? NewDesignator=R48
+Change Component Designator: OldDesignator=R? NewDesignator=R49
+Change Component Designator: OldDesignator=U? NewDesignator=U22
+Change Component Designator: OldDesignator=U? NewDesignator=U23
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR46_1
+Added Pin To Net: NetName=NetR48_1 Pin=R48-1
+Added Pin To Net: NetName=NetR48_1 Pin=R49-2
+Added Pin To Net: NetName=NetR48_1 Pin=U23-3
+Added Net: Name=NetR48_1
+Added Member To Class: ClassName=U_CT Member=Component R46 100k
+Added Member To Class: ClassName=U_CT Member=Component R48 100k
+Added Member To Class: ClassName=U_CT Member=Component R49 100k
+Added Member To Class: ClassName=U_CT Member=Component U23 OPA188AIDBVR

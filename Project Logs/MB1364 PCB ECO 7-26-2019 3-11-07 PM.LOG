@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=+3.3 Pin=U13-3
+Removed Pin From Net: NetName=+3.3 Pin=U13-5
+Removed Pin From Net: NetName=NetC10_2 Pin=U13-6
+Removed Pin From Net: NetName=Power_IN Pin=U13-10
+Removed Pin From Net: NetName=Power_IN Pin=U13-11
+Change Component Footprint: Designator=U13 Old Footprint=LT-DE-UE-12_V New Footprint=LT-S8-8_L
+Change Component Comment : Designator=U13 Old Comment=LT1763CDE-3.3#TR New Comment=LT1763CS8-3
+Change component parameters: Designator = "U13"; Footprint = "LT-S8-8_L"; UniqueID = "\OUWECVDB\KTTIJLIY\VVRVRNQO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.linear.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://cds.linear.com/docs/en/datasheet/1763fg.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://cds.linear.com/docs/en/packaging/05081610_G_SO8.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Discrete Pass Element"; Value = "no"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dropout Voltage(V)"; Value = "0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Iout(mA)"; Value = "500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Isupply(mA)"; Value = "0.03"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Linear Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Noise(uV)"; Value = "20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = "3 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic Small Outline (Narrow .150 Inch), Body 4.9 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "S8-8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. G, 03/2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "LT1763CS8-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PSRR(dB)"; Value = "65"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "FALSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shutdown Current(uA)"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vin Max(V)"; Value = "20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vin Min(V)"; Value = "1.8"; VariantName = "[No Variations]"
+Added Component: Designator=J2(SWITCH-RAPC712X-3_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "RAPC7(1,2)2XSide
+
+RAPC7(1,2)2XTop"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors,Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material - Plating"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/391/rapc712x-cd-391666.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. A, 08/2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dynamic Catalog"; Value = "SwitchcraftInc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Barrel-PowerConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal Switch(s)"; Value = "SingleSwitch,NormallyClosed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Switchcraft"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.switchcraft.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Products"; Value = "SC1539-ND
+-CONNPLUGMINIPWR2CONDBLK/RED
+SC1051-ND
+-CONNPLUGMINIPOWER2CONDBLACK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "ThroughHole,RightAngle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions/Contacts"; Value = "2Conductors,2Contacts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "Q2387461
+Q2526383
+RAPC712X-ND
+SC237"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plug/Mating Plug Diameter"; Value = "2.5mmID,5.5mmOD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "SwitchcraftRoHSInfo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Unshielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "2,500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SolderEyelet(s)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Guard Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=+12 Pin=J2-2
+Added Pin To Net: NetName=+3.3 Pin=U13-1
+Added Pin To Net: NetName=GND Pin=U13-3
+Added Pin To Net: NetName=NetC10_2 Pin=U13-4
+Added Pin To Net: NetName=Power_IN Pin=U13-5
+Added Pin To Net: NetName=GND Pin=U13-6
+Added Member To Class: ClassName=U_Power Member=Component J2 RAPC712X

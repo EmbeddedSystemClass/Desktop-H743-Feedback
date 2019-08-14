@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=SPI0_MISO New Net Name=PG9
+Change Net Name : Old Net Name=SPI0_MOSI New Net Name=PD7
+Change Net Name : Old Net Name=SPI0_SCLK New Net Name=PB3

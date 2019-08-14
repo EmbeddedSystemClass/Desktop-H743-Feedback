@@ -1,0 +1,117 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=ZPlate Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C93-1
+Removed Pin From Net: NetName=+12 Pin=C93-2
+Removed Pin From Net: NetName=GND Pin=C95-1
+Removed Pin From Net: NetName=+12 Pin=C95-2
+Removed Pin From Net: NetName=ZPlate Pin=R5-1
+Removed Pin From Net: NetName=NetR6_2 Pin=R7-1
+Removed Pin From Net: NetName=DAC0_OUT Pin=R7-2
+Removed Pin From Net: NetName=NetR6_2 Pin=R9-1
+Removed Pin From Net: NetName=DAC1_OUT Pin=R9-2
+Removed Pin From Net: NetName=ZPlate Pin=U1-1
+Removed Pin From Net: NetName=-5 Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=ZPlate Pin=U25-12
+Removed Pin From Net: NetName=ZSupply Pin=U25-16
+Removed Pin From Net: NetName=ZPlate Pin=U25-17
+Removed Pin From Net: NetName=NetR134_1 Pin=U26-1
+Removed Pin From Net: NetName=GND Pin=U26-2
+Removed Pin From Net: NetName=Top Force Plate Sense Pin=U26-4
+Removed Pin From Net: NetName=+12 Pin=U26-5
+Removed Pin From Net: NetName=NetR136_1 Pin=U27-1
+Removed Pin From Net: NetName=GND Pin=U27-2
+Removed Pin From Net: NetName=Bottom Force Plate Sense Pin=U27-4
+Removed Pin From Net: NetName=+12 Pin=U27-5
+Removed Member From Class: ClassName=U_zp_zh Member=C?
+Removed Member From Class: ClassName=U_zp_zh Member=R5
+Removed Member From Class: ClassName=U_zp_zh Member=R7
+Removed Member From Class: ClassName=U_zp_zh Member=R8
+Removed Member From Class: ClassName=U_zp_zh Member=R9
+Removed Member From Class: ClassName=U_zp_zh Member=U1
+Removed Member From Class: ClassName=U_CT Member=U26
+Removed Member From Class: ClassName=U_CT Member=U27
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Added Component: Designator=R18(RESC0805(2012)_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R19(RESC0805(2012)_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R20(RESC0805(2012)_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U18(LT6016)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "LT6016IMS8#PBF"; VariantName = "[No Variations]"
+Added Component: Designator=U19(DBV0005A_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CMRR(Min)(dB)"; Value = "120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-178"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/ds/symlink/opa188.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpds018i"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SBOS642A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GBW(Typ)(MHz)"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq per channel(Max)(mA)"; Value = "0.51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Drift(Typ)(uV/C)"; Value = "0.03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "5-Pin Plastic Small Outline, Body 1.6 x 2.9 mm, Pitch 0.95 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DBV0005A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4073253-4/K, 03/2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "OPA188AIDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Catalog"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate(Typ)(V/us)"; Value = "0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "Zero Drift Precision Amplifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Max)(+5V is 5, +/-5V is 10)"; Value = "36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Min)(+5V is 5, +/-5V is 10)"; Value = "4"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ZSupply Pin=C93-1
+Added Pin To Net: NetName=GND Pin=C93-2
+Added Pin To Net: NetName=ZSupply Pin=C95-1
+Added Pin To Net: NetName=GND Pin=C95-2
+Added Pin To Net: NetName=Top Force Plate Sense Pin=R5-1
+Added Pin To Net: NetName=Bottom Force Plate Sense Pin=R18-1
+Added Pin To Net: NetName=NetR134_1 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=DAC1_OUT Pin=U2-3
+Added Pin To Net: NetName=NetR136_1 Pin=U18-1
+Added Pin To Net: NetName=GND Pin=U18-3
+Added Pin To Net: NetName=GND Pin=U18-4
+Added Pin To Net: NetName=ZSupply Pin=U18-8
+Added Pin To Net: NetName=GND Pin=U19-2
+Added Pin To Net: NetName=DAC0_OUT Pin=U19-3
+Added Pin To Net: NetName=+5 Pin=U19-5
+Added Pin To Net: NetName=+5 Pin=U25-16
+Added Pin To Net: NetName=Bottom In Pin=R6-1
+Added Pin To Net: NetName=Bottom In Pin=U2-1
+Added Net: Name=Bottom In
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=U25-18
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=NetR18_2 Pin=R19-1
+Added Pin To Net: NetName=NetR18_2 Pin=U18-2
+Added Net: Name=NetR18_2
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=NetR19_2 Pin=U25-13
+Added Net: Name=NetR19_2
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Pin To Net: NetName=NetR20_2 Pin=U19-4
+Added Net: Name=NetR20_2
+Added Pin To Net: NetName=Top In Pin=R20-1
+Added Pin To Net: NetName=Top In Pin=U19-1
+Added Net: Name=Top In
+Added Member To Class: ClassName=U_CT Member=Component R5 10K
+Added Member To Class: ClassName=U_CT Member=Component R8 10K
+Added Member To Class: ClassName=U_CT Member=Component R18 10K
+Added Member To Class: ClassName=U_CT Member=Component R19 10K
+Added Member To Class: ClassName=U_zp_zh Member=Component R20 10K
+Added Member To Class: ClassName=U_CT Member=Component U1 LT6016
+Added Member To Class: ClassName=U_CT Member=Component U18 LT6016
+Added Member To Class: ClassName=U_zp_zh Member=Component U19 OPA188AIDBVR

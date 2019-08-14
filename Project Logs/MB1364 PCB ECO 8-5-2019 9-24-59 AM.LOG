@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=PC10 Pin=CD1-1
+Added Pin To Net: NetName=PC11 Pin=CD1-2
+Added Pin To Net: NetName=PD2 Pin=CD1-3
+Added Pin To Net: NetName=PC12 Pin=CD1-5
+Added Pin To Net: NetName=PC9 Pin=CD1-8
+Added Pin To Net: NetName=PC12 Pin=CD1-9
+Change Net Name : Old Net Name=D5 New Net Name=PC8
