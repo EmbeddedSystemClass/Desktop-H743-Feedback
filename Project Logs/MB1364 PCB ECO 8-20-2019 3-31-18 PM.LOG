@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=Feedback Member=C8
+Removed Member From Class: ClassName=Feedback Member=C25
+Removed Member From Class: ClassName=Feedback Member=TP4
+Removed Member From Class: ClassName=zp_zh Member=TP12
+Removed Member From Class: ClassName=CT Member=TP16
+Added Pin To Net: NetName=-5 Pin=U4-4
+Added Pin To Net: NetName=PF14 Pin=U11-9
+Added Member To Class: ClassName=CT Member=Component C9 0.1uF
+Added Member To Class: ClassName=Feedback Member=Component C10 .47uF
+Added Member To Class: ClassName=Feedback Member=Component C21 .1uF
+Added Member To Class: ClassName=zp_zh Member=Component C22 CAP CER 0.1UF 25V X7R 0805
+Added Member To Class: ClassName=CT Member=Component TP6 5001
+Added Member To Class: ClassName=Feedback Member=Component TP13 5001
+Added Member To Class: ClassName=zp_zh Member=Component TP16 5003

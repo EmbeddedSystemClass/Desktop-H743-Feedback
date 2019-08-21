@@ -1,0 +1,556 @@
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=+3.3 Pin=C27-2
+Removed Pin From Net: NetName=GND Pin=C29-1
+Removed Pin From Net: NetName=+3.3 Pin=C29-2
+Added Component: Designator=TP2(KSTN-5001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Color"; Value = "5004K-ND
+-TESTPOINTPCMINI.040"DYELLOW
+5003K-ND
+-TESTPOINTPCMINI.040"DORANGE
+5002K-ND
+-TESTPOINTPCMINI.040"DWHITE
+5000K-ND
+-TESTPOINTPCMINI.040"DRED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "5000Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "TestandMeasurement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-2917627?src=ciiva&sig=bd195616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. G, 12/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "TestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "DKTGRS232C-KIT-ND
+-TTLCONVERTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Base,Nylon46,UL94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.040"(1.02mm)HoleDiameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "ColorCodedTestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "5001K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSComplianceStatement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.010"x0.020"(0.25mmx0.51mm)PhosphorBronzeWire,SilverPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PCTestPoint,Miniature"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(KSTN-5001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Color"; Value = "5004K-ND
+-TESTPOINTPCMINI.040"DYELLOW
+5003K-ND
+-TESTPOINTPCMINI.040"DORANGE
+5002K-ND
+-TESTPOINTPCMINI.040"DWHITE
+5000K-ND
+-TESTPOINTPCMINI.040"DRED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "5000Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "TestandMeasurement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-2917627?src=ciiva&sig=bd195616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. G, 12/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "TestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "DKTGRS232C-KIT-ND
+-TTLCONVERTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Base,Nylon46,UL94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.040"(1.02mm)HoleDiameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "ColorCodedTestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "5001K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSComplianceStatement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.010"x0.020"(0.25mmx0.51mm)PhosphorBronzeWire,SilverPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PCTestPoint,Miniature"; VariantName = "[No Variations]"
+Added Component: Designator=TP4(KSTN-5001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Color"; Value = "5004K-ND
+-TESTPOINTPCMINI.040"DYELLOW
+5003K-ND
+-TESTPOINTPCMINI.040"DORANGE
+5002K-ND
+-TESTPOINTPCMINI.040"DWHITE
+5000K-ND
+-TESTPOINTPCMINI.040"DRED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "5000Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "TestandMeasurement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-2917627?src=ciiva&sig=bd195616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. G, 12/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "TestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "DKTGRS232C-KIT-ND
+-TTLCONVERTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Base,Nylon46,UL94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.040"(1.02mm)HoleDiameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "ColorCodedTestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "5001K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSComplianceStatement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.010"x0.020"(0.25mmx0.51mm)PhosphorBronzeWire,SilverPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PCTestPoint,Miniature"; VariantName = "[No Variations]"
+Added Component: Designator=TP5(KSTN-5001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Color"; Value = "5004K-ND
+-TESTPOINTPCMINI.040"DYELLOW
+5003K-ND
+-TESTPOINTPCMINI.040"DORANGE
+5002K-ND
+-TESTPOINTPCMINI.040"DWHITE
+5000K-ND
+-TESTPOINTPCMINI.040"DRED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "5000Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "TestandMeasurement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-2917627?src=ciiva&sig=bd195616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. G, 12/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "TestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "DKTGRS232C-KIT-ND
+-TTLCONVERTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Base,Nylon46,UL94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.040"(1.02mm)HoleDiameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "ColorCodedTestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "5001K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSComplianceStatement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.010"x0.020"(0.25mmx0.51mm)PhosphorBronzeWire,SilverPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PCTestPoint,Miniature"; VariantName = "[No Variations]"
+Added Component: Designator=TP6(KSTN-5001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Color"; Value = "5004K-ND
+-TESTPOINTPCMINI.040"DYELLOW
+5003K-ND
+-TESTPOINTPCMINI.040"DORANGE
+5002K-ND
+-TESTPOINTPCMINI.040"DWHITE
+5000K-ND
+-TESTPOINTPCMINI.040"DRED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "5000Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "TestandMeasurement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-2917627?src=ciiva&sig=bd195616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. G, 12/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "TestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "DKTGRS232C-KIT-ND
+-TTLCONVERTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Base,Nylon46,UL94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.040"(1.02mm)HoleDiameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "ColorCodedTestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "5001K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSComplianceStatement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.010"x0.020"(0.25mmx0.51mm)PhosphorBronzeWire,SilverPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PCTestPoint,Miniature"; VariantName = "[No Variations]"
+Added Component: Designator=TP7(KSTN-5001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Color"; Value = "5004K-ND
+-TESTPOINTPCMINI.040"DYELLOW
+5003K-ND
+-TESTPOINTPCMINI.040"DORANGE
+5002K-ND
+-TESTPOINTPCMINI.040"DWHITE
+5000K-ND
+-TESTPOINTPCMINI.040"DRED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "5000Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "TestandMeasurement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-2917627?src=ciiva&sig=bd195616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. G, 12/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "TestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "DKTGRS232C-KIT-ND
+-TTLCONVERTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Base,Nylon46,UL94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.040"(1.02mm)HoleDiameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "ColorCodedTestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "5001K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSComplianceStatement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.010"x0.020"(0.25mmx0.51mm)PhosphorBronzeWire,SilverPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PCTestPoint,Miniature"; VariantName = "[No Variations]"
+Added Component: Designator=TP8(KSTN-5001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Color"; Value = "5004K-ND
+-TESTPOINTPCMINI.040"DYELLOW
+5003K-ND
+-TESTPOINTPCMINI.040"DORANGE
+5002K-ND
+-TESTPOINTPCMINI.040"DWHITE
+5000K-ND
+-TESTPOINTPCMINI.040"DRED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "5000Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "TestandMeasurement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-2917627?src=ciiva&sig=bd195616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. G, 12/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "TestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "DKTGRS232C-KIT-ND
+-TTLCONVERTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Base,Nylon46,UL94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.040"(1.02mm)HoleDiameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "ColorCodedTestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "5001K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSComplianceStatement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.010"x0.020"(0.25mmx0.51mm)PhosphorBronzeWire,SilverPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PCTestPoint,Miniature"; VariantName = "[No Variations]"
+Added Component: Designator=TP9(KSTN-5001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Color"; Value = "5004K-ND
+-TESTPOINTPCMINI.040"DYELLOW
+5003K-ND
+-TESTPOINTPCMINI.040"DORANGE
+5002K-ND
+-TESTPOINTPCMINI.040"DWHITE
+5000K-ND
+-TESTPOINTPCMINI.040"DRED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "5000Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "TestandMeasurement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-2917627?src=ciiva&sig=bd195616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. G, 12/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "TestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "DKTGRS232C-KIT-ND
+-TTLCONVERTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Base,Nylon46,UL94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.040"(1.02mm)HoleDiameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "ColorCodedTestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "5001K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSComplianceStatement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.010"x0.020"(0.25mmx0.51mm)PhosphorBronzeWire,SilverPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PCTestPoint,Miniature"; VariantName = "[No Variations]"
+Added Component: Designator=TP10(KSTN-5001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Color"; Value = "5004K-ND
+-TESTPOINTPCMINI.040"DYELLOW
+5003K-ND
+-TESTPOINTPCMINI.040"DORANGE
+5002K-ND
+-TESTPOINTPCMINI.040"DWHITE
+5000K-ND
+-TESTPOINTPCMINI.040"DRED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "5000Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "TestandMeasurement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-2917627?src=ciiva&sig=bd195616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. G, 12/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "TestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "DKTGRS232C-KIT-ND
+-TTLCONVERTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Base,Nylon46,UL94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.040"(1.02mm)HoleDiameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "ColorCodedTestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "5001K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSComplianceStatement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.010"x0.020"(0.25mmx0.51mm)PhosphorBronzeWire,SilverPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PCTestPoint,Miniature"; VariantName = "[No Variations]"
+Added Component: Designator=TP11(KSTN-5001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Color"; Value = "5004K-ND
+-TESTPOINTPCMINI.040"DYELLOW
+5003K-ND
+-TESTPOINTPCMINI.040"DORANGE
+5002K-ND
+-TESTPOINTPCMINI.040"DWHITE
+5000K-ND
+-TESTPOINTPCMINI.040"DRED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "5000Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "TestandMeasurement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-2917627?src=ciiva&sig=bd195616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. G, 12/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "TestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "DKTGRS232C-KIT-ND
+-TTLCONVERTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Base,Nylon46,UL94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.040"(1.02mm)HoleDiameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "ColorCodedTestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "5001K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSComplianceStatement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.010"x0.020"(0.25mmx0.51mm)PhosphorBronzeWire,SilverPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PCTestPoint,Miniature"; VariantName = "[No Variations]"
+Added Component: Designator=TP12(KSTN-5001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Color"; Value = "5004K-ND
+-TESTPOINTPCMINI.040"DYELLOW
+5003K-ND
+-TESTPOINTPCMINI.040"DORANGE
+5002K-ND
+-TESTPOINTPCMINI.040"DWHITE
+5000K-ND
+-TESTPOINTPCMINI.040"DRED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "5000Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "TestandMeasurement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-2917627?src=ciiva&sig=bd195616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. G, 12/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "TestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "DKTGRS232C-KIT-ND
+-TTLCONVERTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Base,Nylon46,UL94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.040"(1.02mm)HoleDiameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "ColorCodedTestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "5001K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSComplianceStatement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.010"x0.020"(0.25mmx0.51mm)PhosphorBronzeWire,SilverPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PCTestPoint,Miniature"; VariantName = "[No Variations]"
+Added Component: Designator=TP13(KSTN-5001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Color"; Value = "5004K-ND
+-TESTPOINTPCMINI.040"DYELLOW
+5003K-ND
+-TESTPOINTPCMINI.040"DORANGE
+5002K-ND
+-TESTPOINTPCMINI.040"DWHITE
+5000K-ND
+-TESTPOINTPCMINI.040"DRED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "5000Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "TestandMeasurement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-2917627?src=ciiva&sig=bd195616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. G, 12/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "TestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "DKTGRS232C-KIT-ND
+-TTLCONVERTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Base,Nylon46,UL94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.040"(1.02mm)HoleDiameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "ColorCodedTestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "5001K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSComplianceStatement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.010"x0.020"(0.25mmx0.51mm)PhosphorBronzeWire,SilverPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PCTestPoint,Miniature"; VariantName = "[No Variations]"
+Added Component: Designator=TP14(KSTN-5001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Color"; Value = "5004K-ND
+-TESTPOINTPCMINI.040"DYELLOW
+5003K-ND
+-TESTPOINTPCMINI.040"DORANGE
+5002K-ND
+-TESTPOINTPCMINI.040"DWHITE
+5000K-ND
+-TESTPOINTPCMINI.040"DRED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "5000Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "TestandMeasurement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-2917627?src=ciiva&sig=bd195616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. G, 12/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "TestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "DKTGRS232C-KIT-ND
+-TTLCONVERTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Base,Nylon46,UL94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.040"(1.02mm)HoleDiameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "ColorCodedTestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "5001K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSComplianceStatement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.010"x0.020"(0.25mmx0.51mm)PhosphorBronzeWire,SilverPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PCTestPoint,Miniature"; VariantName = "[No Variations]"
+Added Component: Designator=TP15(KSTN-5001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Color"; Value = "5004K-ND
+-TESTPOINTPCMINI.040"DYELLOW
+5003K-ND
+-TESTPOINTPCMINI.040"DORANGE
+5002K-ND
+-TESTPOINTPCMINI.040"DWHITE
+5000K-ND
+-TESTPOINTPCMINI.040"DRED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "5000Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "TestandMeasurement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-2917627?src=ciiva&sig=bd195616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. G, 12/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "TestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "DKTGRS232C-KIT-ND
+-TTLCONVERTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Base,Nylon46,UL94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.040"(1.02mm)HoleDiameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "ColorCodedTestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "5001K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSComplianceStatement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.010"x0.020"(0.25mmx0.51mm)PhosphorBronzeWire,SilverPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PCTestPoint,Miniature"; VariantName = "[No Variations]"
+Added Component: Designator=TP16(KSTN-5001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Color"; Value = "5004K-ND
+-TESTPOINTPCMINI.040"DYELLOW
+5003K-ND
+-TESTPOINTPCMINI.040"DORANGE
+5002K-ND
+-TESTPOINTPCMINI.040"DWHITE
+5000K-ND
+-TESTPOINTPCMINI.040"DRED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "5000Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "TestandMeasurement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-2917627?src=ciiva&sig=bd195616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. G, 12/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "TestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "DKTGRS232C-KIT-ND
+-TTLCONVERTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Base,Nylon46,UL94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.040"(1.02mm)HoleDiameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "ColorCodedTestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "5001K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSComplianceStatement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.010"x0.020"(0.25mmx0.51mm)PhosphorBronzeWire,SilverPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PCTestPoint,Miniature"; VariantName = "[No Variations]"
+Added Component: Designator=TP17(KSTN-5001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Color"; Value = "5004K-ND
+-TESTPOINTPCMINI.040"DYELLOW
+5003K-ND
+-TESTPOINTPCMINI.040"DORANGE
+5002K-ND
+-TESTPOINTPCMINI.040"DWHITE
+5000K-ND
+-TESTPOINTPCMINI.040"DRED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "5000Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "TestandMeasurement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-2917627?src=ciiva&sig=bd195616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. G, 12/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "TestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "DKTGRS232C-KIT-ND
+-TTLCONVERTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Base,Nylon46,UL94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.040"(1.02mm)HoleDiameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "ColorCodedTestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "5001K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSComplianceStatement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.010"x0.020"(0.25mmx0.51mm)PhosphorBronzeWire,SilverPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PCTestPoint,Miniature"; VariantName = "[No Variations]"
+Added Component: Designator=TP18(KSTN-5001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Color"; Value = "5004K-ND
+-TESTPOINTPCMINI.040"DYELLOW
+5003K-ND
+-TESTPOINTPCMINI.040"DORANGE
+5002K-ND
+-TESTPOINTPCMINI.040"DWHITE
+5000K-ND
+-TESTPOINTPCMINI.040"DRED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "5000Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "TestandMeasurement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-2917627?src=ciiva&sig=bd195616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. G, 12/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "TestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "DKTGRS232C-KIT-ND
+-TTLCONVERTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Base,Nylon46,UL94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.040"(1.02mm)HoleDiameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "ColorCodedTestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "5001K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSComplianceStatement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.010"x0.020"(0.25mmx0.51mm)PhosphorBronzeWire,SilverPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PCTestPoint,Miniature"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PC2_C Pin=CN1-43
+Added Pin To Net: NetName=PC3_C Pin=CN1-45
+Added Pin To Net: NetName=PE13 Pin=TP2-1
+Added Pin To Net: NetName=Top Force Plate Force Pin=TP3-1
+Added Pin To Net: NetName=Beam_In Pin=TP4-1
+Added Pin To Net: NetName=Bottom Force Plate Force Pin=TP5-1
+Added Pin To Net: NetName=Guard Pin=TP6-1
+Added Pin To Net: NetName=BEAM Pin=TP7-1
+Added Pin To Net: NetName=PWM65KHz Pin=TP8-1
+Added Pin To Net: NetName=Beam_mod Pin=TP9-1
+Added Pin To Net: NetName=Beam Sync Demod Out Pin=TP10-1
+Added Pin To Net: NetName=NetC13_2 Pin=TP11-1
+Added Pin To Net: NetName=PA5 Pin=TP12-1
+Added Pin To Net: NetName=Top Sense Plate Force Pin=TP13-1
+Added Pin To Net: NetName=Top In Pin=TP14-1
+Added Pin To Net: NetName=Bottom In Pin=TP15-1
+Added Pin To Net: NetName=Bottom Sense Plate Force Pin=TP17-1
+Added Pin To Net: NetName=PA6 Pin=TP18-1
+Added Pin To Net: NetName=-5 Pin=U4-4
+Added Pin To Net: NetName=PF14 Pin=U11-9
+Added Pin To Net: NetName=+5R Pin=U11-12
+Added Pin To Net: NetName=+5R Pin=U11-13
+Added Pin To Net: NetName=NetTP16_1 Pin=TP16-1
+Added Pin To Net: NetName=NetTP16_1 Pin=U11-15
+Added Net: Name=NetTP16_1
+Added Member To Class: ClassName=CT Member=Component TP2 5001
+Added Member To Class: ClassName=CT Member=Component TP3 5001
+Added Member To Class: ClassName=CT Member=Component TP4 5001
+Added Member To Class: ClassName=CT Member=Component TP5 5001
+Added Member To Class: ClassName=CT Member=Component TP6 5001
+Added Member To Class: ClassName=CT Member=Component TP7 5001
+Added Member To Class: ClassName=Feedback Member=Component TP8 5001
+Added Member To Class: ClassName=Feedback Member=Component TP9 5001
+Added Member To Class: ClassName=Feedback Member=Component TP10 5001
+Added Member To Class: ClassName=Feedback Member=Component TP11 5001
+Added Member To Class: ClassName=Feedback Member=Component TP12 5001
+Added Member To Class: ClassName=Feedback Member=Component TP13 5001
+Added Member To Class: ClassName=zp_zh Member=Component TP14 5001
+Added Member To Class: ClassName=zp_zh Member=Component TP15 5001
+Added Member To Class: ClassName=Feedback Member=Component TP16 5001
+Added Member To Class: ClassName=Feedback Member=Component TP17 5001
+Added Member To Class: ClassName=Feedback Member=Component TP18 5001

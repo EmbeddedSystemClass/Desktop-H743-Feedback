@@ -1,0 +1,36 @@
+Added Component: Designator=TP13(KSTN-5001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Color"; Value = "5004K-ND
+-TESTPOINTPCMINI.040"DYELLOW
+5003K-ND
+-TESTPOINTPCMINI.040"DORANGE
+5002K-ND
+-TESTPOINTPCMINI.040"DWHITE
+5000K-ND
+-TESTPOINTPCMINI.040"DRED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "5000Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "TestandMeasurement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-2917627?src=ciiva&sig=bd195616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. G, 12/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "TestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "DKTGRS232C-KIT-ND
+-TTLCONVERTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Base,Nylon46,UL94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.040"(1.02mm)HoleDiameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "ColorCodedTestPoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "5001K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSComplianceStatement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.010"x0.020"(0.25mmx0.51mm)PhosphorBronzeWire,SilverPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PCTestPoint,Miniature"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PE13 Pin=CN2-65
+Added Pin To Net: NetName=PE13 Pin=TP2-1
+Added Pin To Net: NetName=Top Sense Plate Force Pin=TP13-1
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U11-9
+Added Member To Class: ClassName=Feedback Member=Component TP13 5001

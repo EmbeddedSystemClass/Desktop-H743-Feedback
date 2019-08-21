@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=NetR20_2 Pin=U5-1
+Added Pin To Net: NetName=NetR20_2 Pin=U5-10
+Added Pin To Net: NetName=GND Pin=U9-9
+Added Pin To Net: NetName=+5Ref Pin=U17-3
+Change Net Name : Old Net Name=NetR20_2 New Net Name=PWM65KHz
+Change Net Name : Old Net Name=PWM65KHz_180 New Net Name=PE11
+Added Pin To Net: NetName=PE9 Pin=CN2-62
+Added Pin To Net: NetName=PE9 Pin=R20-1
+Added Net: Name=PE9
+Added Member To Class: ClassName=CT Member=Component R43 10k

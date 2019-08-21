@@ -1,0 +1,19 @@
+Added Component: Designator=U20(MAX1300)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U11-9
+Added Pin To Net: NetName=+5 Pin=U20-1
+Added Pin To Net: NetName=+5 Pin=U20-2
+Added Pin To Net: NetName=-5 Pin=U20-3
+Added Pin To Net: NetName=+5R Pin=U20-4
+Added Pin To Net: NetName=+12 Pin=U20-5
+Added Pin To Net: NetName=+3.3 Pin=U20-6
+Added Pin To Net: NetName=GND Pin=U20-15
+Added Pin To Net: NetName=GND Pin=U20-16
+Added Pin To Net: NetName=+3.3 Pin=U20-17
+Added Pin To Net: NetName=+3.3 Pin=U20-18
+Added Pin To Net: NetName=AGND Pin=U20-21
+Added Pin To Net: NetName=+5 Pin=U20-22
+Added Pin To Net: NetName=AGND Pin=U20-23
+Added Pin To Net: NetName=AGND Pin=U20-24
+Added Class: Name=ADC
