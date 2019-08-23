@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PF14 Pin=U11-9
+Change Component Description : Designator=U11 Old Description=ANALOG DEVICES         AD5231BRUZ10            Non Volatile Digital Potentiometer, 10 kohm, Single, Serial, SPI, Logarithmic, -40%, +20%, 2.7 V New Description=
+Change component parameters: Designator = "U11"; Footprint = "AD5231BRUZ10"; UniqueID = "\NTACYWSQ"
+Change component parameters. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U11-9
+Added Pin To Net: NetName=PF14 Pin=U11-14

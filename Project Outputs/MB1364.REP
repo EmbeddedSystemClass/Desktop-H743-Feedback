@@ -1,0 +1,536 @@
+*************************************************************
+FileName = MB1364.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : MB1364_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Signal Layer 1
+      File : MB1364_Copper_Signal_1.gbr
+
+    Adding Layer      : Signal Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Signal Layer 3
+      File : MB1364_Copper_Signal_2.gbr
+
+    Adding Layer      : Signal Layer 3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D37
+    D38
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : MB1364_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D16
+    D17
+    D18
+    D19
+    D21
+    D23
+    D29
+    D31
+    D32
+    D36
+    D37
+    D38
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : MB1364_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D16
+    D17
+    D18
+    D19
+    D21
+    D23
+    D29
+    D31
+    D32
+    D40
+    D41
+    D42
+    D43
+    D44
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : MB1364_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D40
+    D41
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : MB1364_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D16
+    D17
+    D18
+    D19
+    D21
+    D23
+    D29
+    D31
+    D32
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : MB1364_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : MB1364_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : MB1364_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D51
+    D52
+    D53
+    D54
+    D77
+    D78
+    D79
+    D80
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : MB1364_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : MB1364_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D56
+    D57
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+*************************************************************
+
+*************************************************************
+Generating : M2-Board Dimensions
+      File : MB1364_Mechanical_2.gbr
+
+    Adding Layer      : M2-Board Dimensions
+
+
+Used DCodes :
+    D79
+*************************************************************
+
+*************************************************************
+Generating : M14-Top Assembly
+      File : MB1364_Mechanical_14.gbr
+
+    Adding Layer      : M14-Top Assembly
+
+
+Used DCodes :
+    D78
+    D97
+*************************************************************
+
+*************************************************************
+Generating : M16-Top Courtyard
+      File : MB1364_Mechanical_16.gbr
+
+    Adding Layer      : M16-Top Courtyard
+
+
+Used DCodes :
+    D98
+*************************************************************
+
+*************************************************************
+Generating : M1-Board Shape
+      File : MB1364_Mechanical_1.gbr
+
+    Adding Layer      : M1-Board Shape
+
+
+Used DCodes :
+    D78
+    D79
+    D99
+    D100
+*************************************************************
+
+*************************************************************
+Generating : M15-Bottom Assembly
+      File : MB1364_Mechanical_15.gbr
+
+    Adding Layer      : M15-Bottom Assembly
+
+
+Used DCodes :
+    D78
+    D97
+*************************************************************
+
+*************************************************************
+Generating : M13-Bottom 3D Body
+      File : MB1364_Mechanical_13.gbr
+
+    Adding Layer      : M13-Bottom 3D Body
+
+
+Used DCodes :
+    D78
+*************************************************************
+
+*************************************************************
+Generating : M12-Top 3D Body
+      File : MB1364_Mechanical_12.gbr
+
+    Adding Layer      : M12-Top 3D Body
+
+
+Used DCodes :
+    D78
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : MB1364_Profile.gbr
+
+
+Used DCodes :
+    D101
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : MB1364_NPTH_Drill.gbr
+
+
+Used DCodes :
+    D102
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : MB1364_PTH_Drill.gbr
+
+
+Used DCodes :
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : MB1364_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D112
+    D113
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : MB1364_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D112
+*************************************************************
+

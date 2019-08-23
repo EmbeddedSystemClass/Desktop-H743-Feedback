@@ -1,9 +1,36 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [H743-Feedback.PrjPcb]
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [H743-Feedback.PrjPcb]
+   Generated File[MB1364_Copper_Signal_Top.gbr]
+   Generated File[MB1364_Copper_Signal_1.gbr]
+   Generated File[MB1364_Copper_Signal_2.gbr]
+   Generated File[MB1364_Copper_Signal_Bot.gbr]
+   Generated File[MB1364_Pads_Bot.gbr]
+   Generated File[MB1364_Pads_Top.gbr]
+   Generated File[MB1364_Paste_Bot.gbr]
+   Generated File[MB1364_Legend_Bot.gbr]
+   Generated File[MB1364_Soldermask_Bot.gbr]
+   Generated File[MB1364_Legend_Top.gbr]
+   Generated File[MB1364_Paste_Top.gbr]
+   Generated File[MB1364_Soldermask_Top.gbr]
+   Generated File[MB1364_Mechanical_2.gbr]
+   Generated File[MB1364_Mechanical_14.gbr]
+   Generated File[MB1364_Mechanical_16.gbr]
+   Generated File[MB1364_Mechanical_1.gbr]
+   Generated File[MB1364_Mechanical_15.gbr]
+   Generated File[MB1364_Mechanical_13.gbr]
+   Generated File[MB1364_Mechanical_12.gbr]
+   Generated File[MB1364_Profile.gbr]
+   Generated File[MB1364_NPTH_Drill.gbr]
+   Generated File[MB1364_PTH_Drill.gbr]
+   Generated File[MB1364_Drawing_1.gbr]
+   Generated File[MB1364_Drillmap_1.gbr]
+   Generated File[MB1364.RUL]
+   Generated File[MB1364.EXTREP]
+   Generated File[MB1364.REP]
 
 
-Files Generated   : 0
+Files Generated   : 27
 Documents Printed : 0
 
-Finished Output Generation At 3:08:15 PM On 8/20/2019
+Finished Output Generation At 9:30:37 AM On 8/23/2019

@@ -1,0 +1,33 @@
+Removed Member From Class: ClassName=ADC Member=R8
+Change Component Designator: OldDesignator=C21 NewDesignator=C22
+Change Component Designator: OldDesignator=C22 NewDesignator=C23
+Change Component Designator: OldDesignator=C23 NewDesignator=C21
+Change Component Designator: OldDesignator=R8 NewDesignator=R46
+Change Component Designator: OldDesignator=R8 NewDesignator=R50
+Change Component Designator: OldDesignator=R33 NewDesignator=R32
+Change Component Designator: OldDesignator=R34 NewDesignator=R33
+Change Component Designator: OldDesignator=R35 NewDesignator=R34
+Change Component Designator: OldDesignator=R36 NewDesignator=R35
+Change Component Designator: OldDesignator=R37 NewDesignator=R36
+Change Component Designator: OldDesignator=R38 NewDesignator=R37
+Change Component Designator: OldDesignator=R39 NewDesignator=R38
+Change Component Designator: OldDesignator=R40 NewDesignator=R39
+Change Component Designator: OldDesignator=R42 NewDesignator=R40
+Change Component Designator: OldDesignator=R43 NewDesignator=R41
+Change Component Designator: OldDesignator=R44 NewDesignator=R42
+Change Component Designator: OldDesignator=R45 NewDesignator=R43
+Change Component Designator: OldDesignator=R46 NewDesignator=R44
+Change Component Designator: OldDesignator=R47 NewDesignator=R45
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U11-9
+Change Net Name : Old Net Name=NetC22_1 New Net Name=NetC23_1
+Change Net Name : Old Net Name=NetC22_2 New Net Name=NetC23_2
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR9_2
+Change Net Name : Old Net Name=NetR33_1 New Net Name=NetR32_1
+Change Net Name : Old Net Name=NetR34_3 New Net Name=NetR33_3
+Change Net Name : Old Net Name=NetR37_1 New Net Name=NetR36_1
+Change Net Name : Old Net Name=NetR40_1 New Net Name=NetR39_1
+Change Net Name : Old Net Name=NetR42_1 New Net Name=NetR40_1
+Change Net Name : Old Net Name=NetR45_2 New Net Name=NetR43_2
+Change Net Name : Old Net Name=NetR46_1 New Net Name=NetR44_1
+Added Member To Class: ClassName=ADC Member=Component R46 0R

@@ -1,0 +1,21 @@
+DRC Rules Export File for PCB: C:\Users\zls\Desktop\H743-Feedback\MB1364.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_USB_DIFF_90R_OPTION_L3|Scope=Board|Minimum=4.72
+RuleKind=Clearance|RuleName=Clearance_USB_DIFF_90R_OPTION|Scope=Board|Minimum=4.72
+RuleKind=Width|RuleName=Width_USB_OPTION|Scope=Board|Minimum=6.10
+RuleKind=Width|RuleName=Width_STLK_W200|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_STLK_ISO200|Scope=Board|Minimum=4.72
+RuleKind=Clearance|RuleName=Clearance_VCP_ISO300|Scope=Board|Minimum=4.72
+RuleKind=Width|RuleName=Width_TD_P|Scope=Board|Minimum=4.33
+RuleKind=Width|RuleName=Width_RD_N|Scope=Board|Minimum=4.33
+RuleKind=Clearance|RuleName=Clearance_RMII_SINGLE_50R|Scope=Board|Minimum=4.72
+RuleKind=Width|RuleName=Width_RMII_SINGLE_50R|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance_RXTX_DIFF_100R|Scope=Board|Minimum=4.72
+RuleKind=Clearance|RuleName=Clearance_USB_DIFF_90R|Scope=Board|Minimum=4.72
+RuleKind=Width|RuleName=Width_POWER_SMPS|Scope=Board|Minimum=4.72
+RuleKind=Width|RuleName=Width_GROUND|Scope=Board|Minimum=4.72
+RuleKind=Width|RuleName=Width_POWER_500u|Scope=Board|Minimum=4.72
+RuleKind=Width|RuleName=Width_POWER_300u|Scope=Board|Minimum=4.72
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.72
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.72
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
